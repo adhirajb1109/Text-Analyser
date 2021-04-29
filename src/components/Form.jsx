@@ -34,9 +34,9 @@ const Form = () => {
           Calculate
         </button>
       </form>
-      <h4 id="characters"></h4>
-      <h4 id="charactersperword"></h4>
-      <h4 id="words"></h4>
+      <h4 id="characters">{}</h4>
+      <h4 id="charactersperword">{}</h4>
+      <h4 id="words">{}</h4>
     </div>
   );
 };
