@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import Form from "./components/Form";
 function App() {
   const style = {
-    fontFamily: "Georgia",
+    fontFamily: "Itim",
   };
   return (
     <div style={style}>
